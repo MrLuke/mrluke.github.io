@@ -28,11 +28,6 @@ a{
 
 a:hover{
 	color: #56c590;
-	-webkit-transition-delay: 2s;
-	-moz-transition-delay: 2s;
-	-o-transition-delay: 2s;
-	-ms-transition-delay: 2s;
-	transition-delay: 2s;
 }
 
 #container{
