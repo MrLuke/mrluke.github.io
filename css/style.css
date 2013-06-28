@@ -26,10 +26,6 @@ a{
 	text-decoration: none;
 }
 
-a:hover{
-	color: #9eddbf;
-}
-
 #container{
 	background: #fff;
 	max-width: 800px;
