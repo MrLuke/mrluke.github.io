@@ -27,7 +27,8 @@ a{
 }
 
 a:hover{
-	color: #56c590;
+	color: #9eddbf;
+	transition-delay: 0.5s;
 }
 
 #container{
