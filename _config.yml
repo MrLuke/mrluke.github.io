@@ -1,1 +1,6 @@
 lsi: false
+permalink: /:title/
+author:
+	name: Luke Reid
+	twitter: https://twitter.com/Mr_Luke
+	github: https://github.com/MrLuke
