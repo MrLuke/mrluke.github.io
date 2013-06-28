@@ -26,8 +26,13 @@ a{
 	text-decoration: none;
 }
 
-a:hover{
+a:hove{
 	color: #56c590;
+	-webkit-transition-delay: 2s;
+	-moz-transition-delay: 2s;
+	-o-transition-delay: 2s;
+	-ms-transition-delay: 2s;
+	transition-delay: 2s;
 }
 
 #container{
@@ -49,21 +54,16 @@ a:hover{
 	float: left;
 }
 
-.article{
-	border-bottom: 1px solid #eee;
-	padding: 40px 0;
-}
-
 .icons{
 	float: right;
 	margin-top: 25px;	
 }
 
-.icons li {
+.icons li{
 	display: inline;
 }
 
-.clearfix:after {
+.clearfix:after{
 	content: ".";
 	display: block;
 	clear: both;
@@ -72,11 +72,18 @@ a:hover{
 	height: 0;
 }
  
-.clearfix {
+.clearfix{
 	display: inline-block;
 }
 
-@font-face {
+.article{
+	border-bottom: 1px solid #eee;
+	padding: 40px 0;
+}
+
+/* Custom font for social icons */
+
+@font-face{
   font-family: 'fontello';
   src: url('../fonts/fontello.eot?98204207');
   src: url('../fonts/fontello.eot?98204207#iefix') format('embedded-opentype'),
@@ -87,25 +94,20 @@ a:hover{
   font-style: normal;
 }
  
- [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "fontello";
-  font-style: normal;
-  font-weight: normal;
-  speak: none;
- 
-  display: inline-block;
-  text-decoration: inherit;
-  width: 1em;
-  margin-right: .2em;
-  text-align: center;
-  font-variant: normal;
-  text-transform: none;
-
-  line-height: 1em;
- 
-  margin-left: .2em;
- 
-
+[class^="icon-"]:before, [class*=" icon-"]:before{
+	font-family: "fontello";
+	font-style: normal;
+	font-weight: normal;
+	speak: none;
+	display: inline-block;
+	text-decoration: inherit;
+	width: 1em;
+	margin-right: .2em;
+	text-align: center;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1em;
+	margin-left: .2em;
 }
 
 .icon-twitter{
@@ -114,6 +116,11 @@ a:hover{
 
 .icon-twitter:hover{
 	color: #00aced;
+	-webkit-transition-delay: 2s;
+	-moz-transition-delay: 2s;
+	-o-transition-delay: 2s;
+	-ms-transition-delay: 2s;
+	transition-delay: 2s;
 }
 
 .icon-twitter:before { 
@@ -126,8 +133,15 @@ a:hover{
 
 .icon-github-circled:hover{
 	color: #333;
+	-webkit-transition-delay: 2s;
+	-moz-transition-delay: 2s;
+	-o-transition-delay: 2s;
+	-ms-transition-delay: 2s;
+	transition-delay: 2s;
 }
 
-.icon-github-circled:before { 
+.icon-github-circled:before{ 
 	content: '\e800';
 } 
+
+/* End Custom Font */
