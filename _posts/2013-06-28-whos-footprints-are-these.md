@@ -1,5 +1,4 @@
 ---
-published: false
 layout: main
 title: "Who's Footprints Are These?"
 ---
