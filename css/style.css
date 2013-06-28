@@ -26,7 +26,7 @@ a{
 	text-decoration: none;
 }
 
-a:hove{
+a:hover{
 	color: #56c590;
 	-webkit-transition-delay: 2s;
 	-moz-transition-delay: 2s;
@@ -116,11 +116,6 @@ a:hove{
 
 .icon-twitter:hover{
 	color: #00aced;
-	-webkit-transition-delay: 2s;
-	-moz-transition-delay: 2s;
-	-o-transition-delay: 2s;
-	-ms-transition-delay: 2s;
-	transition-delay: 2s;
 }
 
 .icon-twitter:before { 
@@ -133,11 +128,6 @@ a:hove{
 
 .icon-github-circled:hover{
 	color: #333;
-	-webkit-transition-delay: 2s;
-	-moz-transition-delay: 2s;
-	-o-transition-delay: 2s;
-	-ms-transition-delay: 2s;
-	transition-delay: 2s;
 }
 
 .icon-github-circled:before{ 
