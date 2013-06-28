@@ -1,9 +1,11 @@
-<!doctype html> 
-<html>
-<head>
-	<title>lukereid</title>
-</head>
-<body>
- <p>hello world</p>
-</body>
-</html>
+---
+layout: main
+---
+
+{% for page in site.posts %}
+<div class="article">
+	<h1>{{page.title}}</h1>
+	<h4>{{page.date | date: "%A, %d %B %Y"}}</h4>
+	{{page.content}}
+</div> 
+{% endfor %}
