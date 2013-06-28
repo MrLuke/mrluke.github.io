@@ -112,6 +112,7 @@ a:hover{
 
 .icon-twitter:hover{
 	color: #00aced;
+	transition-delay: 2s;
 }
 
 .icon-twitter:before { 
@@ -124,6 +125,7 @@ a:hover{
 
 .icon-github-circled:hover{
 	color: #333;
+	transition-delay: 2s;
 }
 
 .icon-github-circled:before{ 
