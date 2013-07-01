@@ -54,18 +54,13 @@ a:hover{
 	padding: 60px 0;
 }
 
-.article:after {
-	content: '';
+.foot {
 	background: url(../img/footprints.svg) center;
 	background-size: contain;
 	display: block;
 	width: 60px;
 	height: 60px;
 	margin: 0 auto -90px;
-}
-
-.article:last-child:after {
-	background: none;
 }
 
 .icons{
