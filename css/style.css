@@ -56,7 +56,7 @@ a:hover{
 }
 
 .foot {
-	background: url(../img/footprints.svg) center;
+	background: url(../img/easter_eggs/footprints.svg) center;
 	background-size: contain;
 	display: block;
 	width: 60px;

@@ -8,3 +8,7 @@ So a few weeks ago I got into [Parks & Recreation](http://www.nbc.com/parks-and-
 You can find it here. [Ron Swanson Soundboard](http://lukereid.me/swanson-soundboard/). 
 
 Any fans of the show I hope you like it! if you don't know the show have a listen anyway. I highly recommend giving it a chance, you won't regret it. 
+
+![swanson]
+
+[swanson]: /img/posts/swanson-soundboard.png
