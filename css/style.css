@@ -47,6 +47,8 @@ a:hover{
 .gravatar{
 	border-radius: 50px;
 	float: left;
+	width: 80px;
+	height: 80px;
 }
 
 .article{
@@ -89,6 +91,10 @@ a:hover{
 .postimg{
 	width: 100%;
 	padding: 25px 0 25px 0;
+}
+
+img{
+	width: 100%;
 }
 
 @font-face {
