@@ -28,6 +28,11 @@ a{
 
 a:hover{
 	color: #56c590;
+	-webkit-transition: opacity 0.2s ease-in;
+    -moz-transition: opacity 0.2s ease-in;
+    -o-transition: opacity 0.2s ease-in;
+    -ms-transition: opacity 0.2s ease-in;
+    transition: opacity 0.2s ease-in;
 }
 
 #container{
@@ -135,6 +140,11 @@ img{
 
 .icon-twitter:hover{
 	color: #00aced;
+	-webkit-transition: opacity 0.2s ease-in;
+    -moz-transition: opacity 0.2s ease-in;
+    -o-transition: opacity 0.2s ease-in;
+    -ms-transition: opacity 0.2s ease-in;
+    transition: opacity 0.2s ease-in;
 }
 
 .icon-twitter:before { 
@@ -147,6 +157,11 @@ img{
 
 .icon-github-circled:hover{
 	color: #333;
+	-webkit-transition: opacity 0.2s ease-in;
+    -moz-transition: opacity 0.2s ease-in;
+    -o-transition: opacity 0.2s ease-in;
+    -ms-transition: opacity 0.2s ease-in;
+    transition: opacity 0.2s ease-in;
 }
 
 .icon-github-circled:before { 
