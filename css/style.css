@@ -24,15 +24,15 @@ p{
 a{
 	color: #ee5732;
 	text-decoration: none;
-}
-
-a:hover{
-	color: #56c590;
 	-webkit-transition: opacity 0.2s ease-in;
     -moz-transition: opacity 0.2s ease-in;
     -o-transition: opacity 0.2s ease-in;
     -ms-transition: opacity 0.2s ease-in;
     transition: opacity 0.2s ease-in;
+}
+
+a:hover{
+	color: #56c590;
 }
 
 #container{
@@ -136,15 +136,15 @@ img{
 
 .icon-twitter{
 	color: #999;
-}
-
-.icon-twitter:hover{
-	color: #00aced;
 	-webkit-transition: opacity 0.2s ease-in;
     -moz-transition: opacity 0.2s ease-in;
     -o-transition: opacity 0.2s ease-in;
     -ms-transition: opacity 0.2s ease-in;
     transition: opacity 0.2s ease-in;
+}
+
+.icon-twitter:hover{
+	color: #00aced;
 }
 
 .icon-twitter:before { 
@@ -153,15 +153,15 @@ img{
 
 .icon-github-circled{
 	color: #999;
-}
-
-.icon-github-circled:hover{
-	color: #333;
 	-webkit-transition: opacity 0.2s ease-in;
     -moz-transition: opacity 0.2s ease-in;
     -o-transition: opacity 0.2s ease-in;
     -ms-transition: opacity 0.2s ease-in;
     transition: opacity 0.2s ease-in;
+}
+
+.icon-github-circled:hover{
+	color: #333;
 }
 
 .icon-github-circled:before { 
