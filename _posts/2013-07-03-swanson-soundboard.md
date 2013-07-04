@@ -11,4 +11,4 @@ Any fans of the show I hope you like it! if you don't know the show have a liste
 
 ![swanson]
 
-[swanson]: /img/posts/swanson_soundboard.png
+[swanson]: ../img/posts/swanson_soundboard.png
