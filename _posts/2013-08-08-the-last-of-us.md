@@ -20,4 +20,4 @@ Final verdict: Buy it
 
 ![thelastofus]
 
-[thelastofus]: ../img/posts/thelastofus.png
+[thelastofus]: ../img/posts/thelastofus.jpg
