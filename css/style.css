@@ -169,3 +169,34 @@ img{
 .icon-github-circled:before { 
 	content: '\e800';
 } 
+
+
+.icon-mail-alt{
+	color: #999;
+	-webkit-transition: color 0.2s ease-in;
+    -moz-transition: color 0.2s ease-in;
+    -o-transition: color 0.2s ease-in;
+    -ms-transition: color 0.2s ease-in;
+    transition: color 0.2s ease-in;
+}
+
+.icon-mail-alt:hover{
+	color: #0072C6;
+}
+
+.icon-mail-alt:before{ content: '\e804'; }
+
+.icon-youtube-play{
+	color: #999;
+	-webkit-transition: color 0.2s ease-in;
+    -moz-transition: color 0.2s ease-in;
+    -o-transition: color 0.2s ease-in;
+    -ms-transition: color 0.2s ease-in;
+    transition: color 0.2s ease-in;
+}
+
+.icon-youtube-play:hover{
+	color: #cc181e;
+}
+
+.icon-youtube-play:before{ content: '\e803'; }
