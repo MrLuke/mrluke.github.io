@@ -1,5 +1,5 @@
 body{
-	background: #f7f7f7;
+	background: #46B3CE;
 }
 
 h1{
@@ -15,19 +15,20 @@ h2{
 h4{
 	font-family: 'lato', sans-serif;
 	margin: 10px 0;
-	color: #9eddbf;
+	color: #FF824C;
 }
 
 p{
 	color: #999;
-	font-family: 'Old Standard TT', serif;
+	font-family: 'Open Sans', serif;
 	font-size: 16px;
+	font-weight: 300;
 	line-height: 1.8;
 	margin: 20px 0;
 }
 
 a{
-	color: #ee5732;
+	color: #AA4584;
 	text-decoration: none;
 	-webkit-transition: color 0.2s ease-in;
     -moz-transition: color 0.2s ease-in;
@@ -37,7 +38,7 @@ a{
 }
 
 a:hover{
-	color: #56c590;
+	color: #AD819D;
 }
 
 article{
