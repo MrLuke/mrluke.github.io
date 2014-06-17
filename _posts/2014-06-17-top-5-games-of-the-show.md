@@ -5,19 +5,11 @@ title: E3: Top 5 games of the show
 
 So as most of you know it was E3 last week, to me this is one of the best times of the year when all the gaming giants come out to battle. Sony, Microsoft, EA & Ubisoft all have there own live press conferences broadcast across the world showcasing existing games and debuting new ones. I’ve watched it for past four or five years now & I thought it’s about time that I give my impressions of the show out there. So here are my top 5 games of the show.
 
-Number 1: Destiny
-Developer: Bungie
-Release Date: 9th September 2014
-
 ![destiny]
 
 [destiny]: ../img/posts/e3/destiny.jpg
 
 Maybe a predictable top spot but it is a game I’m extremely excited for, Destiny. There hasn’t been too much shown about the game & this last week was the first time the public were allowed to get hands on with the game if you were lucky enough to get an alpha code. I was fortunate enough to get a code & get some hands on time over the weekend; I’ll discuss it in more depth in a separate post. The reason this takes my number one slot is just the potential this game has. With planets to go explore, enemies to hunt down, armor & weapons to find, spaceships to customize & PVP battles it’s set to be one of the biggest games of recent history.
-
-Number 2: Uncharted 4: A Thief’s End.
-Developer: Naughty Dog
-Release Date: 2015
 
 ![uncharted]
 
@@ -25,29 +17,17 @@ Release Date: 2015
 
 My number 2 game on my list is Uncharted 4: A Thief’s End. Closing the Sony press conference we got 2-minute trailer showing nothing but some speech between Drake & Sully and Drake getting up and heading into a forest. The game looked beautiful and is said to be all in engine. I’ve played all previous Uncharted games and cannot wait to see what Naughty Dog has to offer this time around.
 
-Number 3: Metal Gear Solid 5: The Phantom Pain
-Developer: Kojima Productions
-Release Date: 2015
-
 ![metalgearsolid]
 
 [metalgearsolid]: ../img/posts/e3/mgstpp.jpg
 
 After getting a small taste of this game with Ground Zeroes it’s safe to say it’s going to be fantastic new addition to the franchise. With Kojima promising a huge open world map with varying ways to approach situations that differs from the usual MGS formula I can’t wait to go get stuck in.
 
-Number 4: Far Cry 4
-Developer: Ubisoft
-Release Date: 18th November 2014
-
 ![farcry]
 
 [farcry]: ../img/posts/e3/fc4.png
 
 Far Cry has always been on my radar, after playing Far Cry 2 it drew me in even more. Far Cry 3 really set the bar for open world FPS games with varying ways you can approach the game. I’ve wanted more of this game for a long time & now I can ride elephants & take over forts in the Himalayas?!
-
-Number 5: Batman Arkham Knight
-Developer: RockSteady
-Release Date: 2015
 
 ![arkhamknight]
 
