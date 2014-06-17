@@ -5,6 +5,9 @@ title: E3: Top 5 games of the show
 
 So as most of you know it was E3 last week, to me this is one of the best times of the year when all the gaming giants come out to battle. Sony, Microsoft, EA & Ubisoft all have there own live press conferences broadcast across the world showcasing existing games and debuting new ones. I’ve watched it for past four or five years now & I thought it’s about time that I give my impressions of the show out there. So here are my top 5 games of the show.
 
+
+<h2>Destiny</h2>
+
 ![destiny]
 
 [destiny]: ../img/posts/e3/destiny.jpg
