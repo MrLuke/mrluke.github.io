@@ -29,6 +29,8 @@ p{
 
 a{
 	color: #AA4584;
+	font-family: 'lato', sans-serif;
+
 	text-decoration: none;
 	-webkit-transition: color 0.2s ease-in;
     -moz-transition: color 0.2s ease-in;
@@ -67,8 +69,6 @@ header{
 	height: 80px;
 }
 
-
-
 .foot {
 	background: url(../img/easter_eggs/footprints.svg) center;
 	background-size: contain;
@@ -79,12 +79,37 @@ header{
 }
 
 .icons{
-	float: right;
-	margin-top: 25px;
+	margin-top: 20px;
+	line-height: 1.3em;
+	padding-left: 90px;
 }
 
-.icons li {
-	display: inline;
+.icons .twitter{
+	color: #55acee;
+
+	-webkit-transition: color 0.2s ease-in;
+    -moz-transition: color 0.2s ease-in;
+    -o-transition: color 0.2s ease-in;
+    -ms-transition: color 0.2s ease-in;
+    transition: color 0.2s ease-in;
+}
+
+.icons .twitter:hover{
+	color: #55acee;
+}
+
+.icons .twitch{
+	color: #6441a5;
+
+	-webkit-transition: color 0.2s ease-in;
+    -moz-transition: color 0.2s ease-in;
+    -o-transition: color 0.2s ease-in;
+    -ms-transition: color 0.2s ease-in;
+    transition: color 0.2s ease-in;
+}
+
+.icons .twitch:hover{
+	color: #7550ba;
 }
 
 .clearfix:after {
