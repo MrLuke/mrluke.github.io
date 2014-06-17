@@ -1,4 +1,3 @@
-
 ---
 layout: main
 title: E3: Top 5 games of the show
