@@ -7,6 +7,11 @@ h1{
 	font-size: 45px;
 }
 
+h2{
+	font-family: 'lato', sans-serif;
+	font-size: 30px;
+}
+
 h4{
 	font-family: 'lato', sans-serif;
 	margin: 10px 0;
@@ -75,7 +80,7 @@ header{
 
 .icons{
 	float: right;
-	margin-top: 25px;	
+	margin-top: 25px;
 }
 
 .icons li {
@@ -90,7 +95,7 @@ header{
 	line-height: 0;
 	height: 0;
 }
- 
+
 .clearfix {
 	display: inline-block;
 }
@@ -114,13 +119,13 @@ img{
   font-weight: normal;
   font-style: normal;
 }
- 
+
  [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
   speak: none;
- 
+
   display: inline-block;
   text-decoration: inherit;
   width: 1em;
@@ -130,9 +135,9 @@ img{
   text-transform: none;
 
   line-height: 1em;
- 
+
   margin-left: .2em;
- 
+
 
 }
 
@@ -149,7 +154,7 @@ img{
 	color: #00aced;
 }
 
-.icon-twitter:before { 
+.icon-twitter:before {
 	content: '\e801';
 }
 
@@ -166,9 +171,9 @@ img{
 	color: #333;
 }
 
-.icon-github-circled:before { 
+.icon-github-circled:before {
 	content: '\e800';
-} 
+}
 
 
 .icon-mail-alt{
